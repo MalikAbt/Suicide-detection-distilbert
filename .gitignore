@@ -4,14 +4,12 @@ venv/
 # Modèle entraîné
 model/
 
-# Fichiers lourds GloVe
-glove.6B.100d.txt
+#bert
+bert_finetuned/
 
 # Données brutes
 Data/
 
-# Vocabulaire généré
-vocab.txt
 
 # Cache Python
 __pycache__/
