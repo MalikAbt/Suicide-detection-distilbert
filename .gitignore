@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+
+# Modèle entraîné
+model/
+
+# Fichiers lourds GloVe
+glove.6B.100d.txt
+
+# Données brutes
+Data/
+
+# Vocabulaire généré
+vocab.txt
+
+# Cache Python
+__pycache__/
+*.py[cod]
